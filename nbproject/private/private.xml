@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="Group 20260625-08:27:41">
+            <file>file:/C:/Users/Abril/Downloads/AvanceProyectoSem1_integrado2/AvanceProyectoSem1/src/Logica/CatalogoPersonajes.java</file>
+            <file>file:/C:/Users/Abril/Downloads/AvanceProyectoSem1_integrado2/AvanceProyectoSem1/src/avanceproyectosem1/Visual/CrearPlayerDialog.java</file>
+            <file>file:/C:/Users/Abril/Downloads/AvanceProyectoSem1_integrado2/AvanceProyectoSem1/src/avanceproyectosem1/Visual/CeldaButton.java</file>
+            <file>file:/C:/Users/Abril/Downloads/AvanceProyectoSem1_integrado2/AvanceProyectoSem1/src/avanceproyectosem1/Visual/EliminarCuentaDialog.java</file>
+            <file>file:/C:/Users/Abril/Downloads/AvanceProyectoSem1_integrado2/AvanceProyectoSem1/src/avanceproyectosem1/Visual/Estilo.java</file>
+            <file>file:/C:/Users/Abril/Downloads/AvanceProyectoSem1_integrado2/AvanceProyectoSem1/src/avanceproyectosem1/Visual/LoginDialog.java</file>
+            <file>file:/C:/Users/Abril/Downloads/AvanceProyectoSem1_integrado2/AvanceProyectoSem1/src/avanceproyectosem1/Visual/TableroPanel.java</file>
+            <file>file:/C:/Users/Abril/Downloads/AvanceProyectoSem1_integrado2/AvanceProyectoSem1/src/avanceproyectosem1/Visual/RankingDialog.java</file>
+            <file>file:/C:/Users/Abril/Downloads/AvanceProyectoSem1_integrado2/AvanceProyectoSem1/src/avanceproyectosem1/Visual/NuevaPartidaDialog.java</file>
+            <file>file:/C:/Users/Abril/Downloads/AvanceProyectoSem1_integrado2/AvanceProyectoSem1/src/avanceproyectosem1/Visual/MenuPrincipal.java</file>
+            <file>file:/C:/Users/Abril/Downloads/AvanceProyectoSem1_integrado2/AvanceProyectoSem1/src/avanceproyectosem1/Visual/MenuInicial.java</file>
+            <file>file:/C:/Users/Abril/Downloads/AvanceProyectoSem1_integrado2/AvanceProyectoSem1/src/avanceproyectosem1/Visual/CambiarPasswordDialog.java</file>
+            <file>file:/C:/Users/Abril/Downloads/AvanceProyectoSem1_integrado2/AvanceProyectoSem1/src/avanceproyectosem1/Visual/BatallasDialog.java</file>
+            <file>file:/C:/Users/Abril/Downloads/AvanceProyectoSem1_integrado2/AvanceProyectoSem1/src/Piezas/Agente.java</file>
+            <file>file:/C:/Users/Abril/Downloads/AvanceProyectoSem1_integrado2/AvanceProyectoSem1/src/Piezas/PiezaMovil.java</file>
+            <file>file:/C:/Users/Abril/Downloads/AvanceProyectoSem1_integrado2/AvanceProyectoSem1/src/Piezas/Pieza.java</file>
+            <file>file:/C:/Users/Abril/Downloads/AvanceProyectoSem1_integrado2/AvanceProyectoSem1/src/Piezas/Mistico.java</file>
+            <file>file:/C:/Users/Abril/Downloads/AvanceProyectoSem1_integrado2/AvanceProyectoSem1/src/Piezas/Bomba.java</file>
+            <file>file:/C:/Users/Abril/Downloads/AvanceProyectoSem1_integrado2/AvanceProyectoSem1/src/Piezas/Scout.java</file>
+            <file>file:/C:/Users/Abril/Downloads/AvanceProyectoSem1_integrado2/AvanceProyectoSem1/src/Piezas/Tierra.java</file>
+            <file>file:/C:/Users/Abril/Downloads/AvanceProyectoSem1_integrado2/AvanceProyectoSem1/src/Logica/Estadisticas.java</file>
+            <file>file:/C:/Users/Abril/Downloads/AvanceProyectoSem1_integrado2/AvanceProyectoSem1/src/Logica/FormacionAleatoria.java</file>
+            <file>file:/C:/Users/Abril/Downloads/AvanceProyectoSem1_integrado2/AvanceProyectoSem1/src/avanceproyectosem1/modelo/Tablero.java</file>
+            <file>file:/C:/Users/Abril/Downloads/AvanceProyectoSem1_integrado2/AvanceProyectoSem1/src/avanceproyectosem1/modelo/Actualizable.java</file>
+            <file>file:/C:/Users/Abril/Downloads/AvanceProyectoSem1_integrado2/AvanceProyectoSem1/src/avanceproyectosem1/Visual/PerfilDialog.java</file>
+            <file>file:/C:/Users/Abril/Downloads/AvanceProyectoSem1_integrado2/AvanceProyectoSem1/src/Logica/MotorJuego.java</file>
+            <file>file:/C:/Users/Abril/Downloads/AvanceProyectoSem1_integrado2/AvanceProyectoSem1/src/Logica/GestorJugadores.java</file>
+            <file>file:/C:/Users/Abril/Downloads/AvanceProyectoSem1_integrado2/AvanceProyectoSem1/src/Logica/GestorLogs.java</file>
+            <file>file:/C:/Users/Abril/Downloads/AvanceProyectoSem1_integrado2/AvanceProyectoSem1/src/Logica/Ranking.java</file>
+            <file>file:/C:/Users/Abril/Downloads/AvanceProyectoSem1_integrado2/AvanceProyectoSem1/src/avanceproyectosem1/Visual/PartidaFrame.java</file>
+            <file>file:/C:/Users/Abril/Downloads/AvanceProyectoSem1_integrado2/AvanceProyectoSem1/src/avanceproyectosem1/modelo/ModoJuego.java</file>
+            <file>file:/C:/Users/Abril/Downloads/AvanceProyectoSem1_integrado2/AvanceProyectoSem1/src/avanceproyectosem1/modelo/Jugador.java</file>
+            <file>file:/C:/Users/Abril/Downloads/AvanceProyectoSem1_integrado2/AvanceProyectoSem1/src/avanceproyectosem1/modelo/EstadoPartida.java</file>
+            <file>file:/C:/Users/Abril/Downloads/AvanceProyectoSem1_integrado2/AvanceProyectoSem1/src/avanceproyectosem1/modelo/LogPartida.java</file>
+            <file>file:/C:/Users/Abril/Downloads/AvanceProyectoSem1_integrado2/AvanceProyectoSem1/src/avanceproyectosem1/modelo/Movible.java</file>
+            <file>file:/C:/Users/Abril/Downloads/AvanceProyectoSem1_integrado2/AvanceProyectoSem1/src/avanceproyectosem1/modelo/ResultadoCombate.java</file>
+            <file>file:/C:/Users/Abril/Downloads/AvanceProyectoSem1_integrado2/AvanceProyectoSem1/src/Imagenes/Heroes/Thing.png</file>
+            <file>file:/C:/Users/Abril/Downloads/AvanceProyectoSem1_integrado2/AvanceProyectoSem1/src/avanceproyectosem1/AvanceProyectoSem1.java</file>
+        </group>
+    </open-files>
+</project-private>
